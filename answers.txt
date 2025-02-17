@@ -10,3 +10,7 @@ Answer: Data science is widely used in healthcare for disease prediction, person
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging keeps the history of both branches, while rebasing moves the changes from one branch on top of another, creating a cleaner history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm excited to learn new data analysis skills, work on interesting projects, and collaborate with classmates to make a great final project.
